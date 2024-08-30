@@ -7,6 +7,10 @@
 
 image: maven:3.6.3
 
+
+on:
+  workflow_dispatch: 
+
 pipelines:
   default:
     - parallel:
