@@ -5,6 +5,8 @@
 
 # Prerequisites: pom.xml and appropriate project structure should exist in the repository.
 
+name: Java CI with Maven ORiginal
+
 image: maven:3.6.3
 
 
